@@ -1,0 +1,25 @@
+
+{
+  "questions" : {
+    "WW2" : {
+      "_comment" : "first choice is right",
+      "question": "when did WW2 end",
+      "answer": ["1945", "1936", "1953"]
+
+    },
+    "henry": {
+       "question": "how many wives did henry VIII have",
+       "answer": ["1", "4", "6"]
+
+     },
+    "bonfire": {
+       "question": "whens bonfire night",
+       "answer": ["5 Nov", "7 Sep", "8 Dec"]
+
+     }
+  },
+  "order" : ["WW2","henry","bonfire","WW2","henry","bonfire","WW2","henry","bonfire","WW2","henry","bonfire"],
+
+  "_comment" : "tells what order to put it in, Order element"
+
+}

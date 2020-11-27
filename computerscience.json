@@ -1,0 +1,25 @@
+
+{
+  "questions" : {
+    "hdmi": {
+      "_comment" : "first choice is right",
+      "question": "What is a HDMI cable used for?",
+      "answer": ["sound and video", "video", "sound"]
+
+    },
+    "Boolean": {
+       "question": "Which choice is not a Boolean",
+       "answer": ["Maybe", "True", "False"]
+
+     },
+    "byte": {
+       "question": "How many bits are in a byte ",
+       "answer": ["8", "6", "7"]
+
+     }
+  },
+  "order" : ["hdmi", "Boolean", "byte", "hdmi", "Boolean", "byte", "hdmi", "Boolean", "byte", "hdmi", "Boolean", "byte", "hdmi", "Boolean", "byte", "hdmi", "Boolean", "byte"],
+
+  "_comment" : "tells what order to put it in, Order element"
+
+}
